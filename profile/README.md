@@ -62,5 +62,21 @@ Supported CI Systems: **GitHub Actions**, **Gitlab CI**, **Bitbucket Pipelines**
                 <img src="https://poser.pugx.org/mr-linter/metrics-collector-manager/d/total.svg">
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mr-linter/php-metrics-reader">
+                    reader
+                </a>
+            </td>
+            <td>
+                Reader for metrics
+            </td>
+            <td>
+                <img src="http://poser.pugx.org/mr-linter/metrics-reader/v">
+            </td>
+            <td>
+                <img src="https://poser.pugx.org/mr-linter/metrics-reader/d/total.svg">
+            </td>
+        </tr>
 </tbody>
 </table>
