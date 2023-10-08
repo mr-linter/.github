@@ -26,7 +26,7 @@ Supported CI Systems: **GitHub Actions**, **Gitlab CI**, **Bitbucket Pipelines**
     </thead>
     <tbody>
         <tr>
-            <th colspan="3">
+            <th colspan="4">
                 <div align="left">Metrics</div>
             </th>
         </tr>
@@ -44,6 +44,22 @@ Supported CI Systems: **GitHub Actions**, **Gitlab CI**, **Bitbucket Pipelines**
             </td>
             <td>
                 <img src="https://poser.pugx.org/mr-linter/metrics-contracts/d/total.svg">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/mr-linter/php-metrics-collector-manager">
+                    collector-manager
+                </a>
+            </td>
+            <td>
+                Manager for collectors
+            </td>
+            <td>
+                <img src="http://poser.pugx.org/mr-linter/metrics-collector-manager/v">
+            </td>
+            <td>
+                <img src="https://poser.pugx.org/mr-linter/metrics-collector-manager/d/total.svg">
             </td>
         </tr>
 </tbody>
